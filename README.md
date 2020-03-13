@@ -1,2 +1,2 @@
-# Secure_Messages
-You can use this tool to encrypt messages and allow friends with this application to view the plain text.
+#Python_Projects
+A collection of my projects made in python.
